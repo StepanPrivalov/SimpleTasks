@@ -1,0 +1,7 @@
+﻿  MinArray.cpp
+D:\Programming\SimpleTasks\TaskSolver\TaskSolver\Task3\Task3\MinArray.cpp(11,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\SimpleTasks\TaskSolver\TaskSolver\Task3\Task3\MinArray.cpp(39,18): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SimpleTasks\TaskSolver\TaskSolver\Task3\Task3\MinArray.cpp(48,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SimpleTasks\TaskSolver\TaskSolver\Task3\Task3\MinArray.cpp(58,23): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SimpleTasks\TaskSolver\TaskSolver\Task3\Task3\MinArray.cpp(60,14): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  Task3.vcxproj -> D:\Programming\SimpleTasks\TaskSolver\TaskSolver\Task3\Debug\Task3.exe
